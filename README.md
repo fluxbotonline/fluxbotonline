@@ -1,5 +1,5 @@
 <!-- ================================================= -->
-<!--  FLUXBOT • ULTRA-DARK ENTERPRISE GITHUB PROFILE -->
+<!--  FLUXBOT • SOLANA-NATIVE GITHUB PROFILE -->
 <!-- ================================================= -->
 
 <div align="center">
@@ -8,88 +8,82 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=2800&pause=900&color=00FFE1&center=true&vCenter=true&width=800&lines=Automation+Intelligence+Framework;AI+%2B+Web3+Execution+Layer;Built+for+Developers+%26+Enterprises;From+Signals+to+Execution" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=2600&pause=800&color=00FFAA&center=true&vCenter=true&width=900&lines=Solana-Native+Automation+Intelligence;AI-Driven+Execution+on+SOL;Built+for+Speed%2C+Latency%2C+Scale;From+Signals+to+On-Chain+Execution" />
 
 <br/>
 
 # ⚡ FLUXBOT
 
-### **Automation Intelligence for the Next Internet**
+### **Automation Intelligence — Native to Solana**
 
 <p align="center">
-  <a href="https://fluxbot.online"><img src="https://img.shields.io/badge/Website-fluxbot.online-000000?style=for-the-badge&logo=google-chrome&logoColor=00FFE1"/></a>
-  <a href="https://docs.fluxbot.online"><img src="https://img.shields.io/badge/Docs-Documentation-000000?style=for-the-badge&logo=gitbook&logoColor=00FFE1"/></a>
-  <a href="https://t.me/fluxbot_groups"><img src="https://img.shields.io/badge/Telegram-Community-000000?style=for-the-badge&logo=telegram&logoColor=00FFE1"/></a>
-  <a href="https://x.com/Fluxbotonline"><img src="https://img.shields.io/badge/X-@Fluxbotonline-000000?style=for-the-badge&logo=x&logoColor=00FFE1"/></a>
+  <a href="https://fluxbot.online"><img src="https://img.shields.io/badge/Website-fluxbot.online-000000?style=for-the-badge&logo=google-chrome&logoColor=00FFAA"/></a>
+  <a href="https://docs.fluxbot.online"><img src="https://img.shields.io/badge/Docs-Solana%20Focused-000000?style=for-the-badge&logo=gitbook&logoColor=00FFAA"/></a>
+  <a href="https://t.me/fluxbot_groups"><img src="https://img.shields.io/badge/Telegram-Community-000000?style=for-the-badge&logo=telegram&logoColor=00FFAA"/></a>
+  <a href="https://x.com/Fluxbotonline"><img src="https://img.shields.io/badge/X-@Fluxbotonline-000000?style=for-the-badge&logo=x&logoColor=00FFAA"/></a>
 </p>
 
 </div>
 
 ---
 
-## 🧠 Enterprise Overview
+## 🧠 Solana-Native Overview
 
-**FluxBot** is a **high-performance automation & intelligence framework**  
-designed for **AI systems, Web3 infrastructure, and mission-critical automation**.
+**FluxBot** is a **Solana-first automation & intelligence framework**  
+built for **high-speed execution, low latency, and real-time decision systems**.
 
-We do not build bots.  
-We build **decision engines**.
+We are not building generic bots.  
+We are building **on-chain execution engines** optimized for **SOL**.
 
-> **Observe → Analyze → Decide → Execute**  
-> At machine speed. At production scale.
-
----
-
-## 🧬 What Makes FluxBot Different
-
-Most automation platforms fail because they are:
-- Script-driven  
-- Context-blind  
-- Non-extensible  
-
-**FluxBot is built differently.**
-
-### FluxBot is:
-- ⚙️ **Architecture-first**
-- 🧠 **Decision-centric**
-- 🔗 **Execution-native**
-- 🏢 **Enterprise-grade**
-
-No black boxes.  
-No fragile logic.  
-No shortcuts.
+> **Detect → Decide → Execute → Settle**  
+> All within Solana’s performance envelope.
 
 ---
 
-## 🚀 Core Capabilities
+## 🧬 Why Solana
 
-### 🤖 Automation Engine
-- Event-driven execution
-- Deterministic task flows
-- Real-time orchestration
+Solana is not just another chain.  
+It is **infrastructure for real-time systems**.
 
-### 🧠 Intelligence Layer
-- AI-assisted decision routing
-- Rule + signal hybrid logic
-- Extensible evaluation pipelines
+FluxBot is designed to leverage:
+- ⚡ Sub-second finality
+- 🧵 Parallel execution
+- 📡 High-frequency event streams
+- 💸 Ultra-low transaction costs
 
-### 🔗 Web3 & Infrastructure Automation
-- On-chain monitoring
-- Transaction orchestration
-- Multi-chain ready design
-
-### 🏗️ Developer & Enterprise Ready
-- Modular architecture
-- Clear separation of concerns
-- Production-safe by default
+**FluxBot is Solana-native by design — not by adaptation.**
 
 ---
 
-## 🛠️ Technology Stack (High-Level)
+## 🚀 Core Capabilities (SOL Focus)
+
+### 🤖 Solana Automation Engine
+- Program log listeners
+- Account & transaction watchers
+- Event-driven task execution
+
+### 🧠 AI-Assisted Decision Layer
+- Signal classification (on-chain + off-chain)
+- Risk & pattern evaluation
+- Deterministic execution routing
+
+### 🔗 On-Chain Execution
+- Transaction building & signing
+- Priority fee & compute tuning
+- Program interaction pipelines
+
+### 🏢 Enterprise-Grade Architecture
+- Modular services
+- Clear execution boundaries
+- Production-safe defaults
+
+---
+
+## 🛠️ Technology Stack (Solana-Centric)
 
 ```txt
-Decision Layer     → AI / Rule Engines
-Automation Layer   → Event & Task Executors
+Decision Layer     → AI / Rule-Based Logic
+Automation Layer   → Event & Task Engine
+Solana Runtime     → WebSocket • RPC • Program Logs
 Backend            → Node.js / TypeScript
-Infrastructure     → Headless • Scalable • Secure
-Blockchain         → Multi-chain Execution
+Execution          → SOL Transactions & Programs
