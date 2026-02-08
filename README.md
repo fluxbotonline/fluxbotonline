@@ -1,73 +1,82 @@
-<!-- ===================== -->
-<!--  FLUXBOT GITHUB README -->
-<!-- ===================== -->
+<!-- ============================= -->
+<!--  FLUXBOT • GITHUB PROFILE -->
+<!-- ============================= -->
 
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/260231320?v=4" width="140" style="border-radius:50%" />
+<img src="https://raw.githubusercontent.com/fluxbotonline/fluxbot-monorepo-program/refs/heads/main/banner.jpg" alt="FluxBot Banner" width="100%" />
+
+<br/><br/>
 
 # ⚡ FluxBot
 
-**Automation Intelligence for the Next Internet**
+### Automation Intelligence for the Next Internet
 
-🌐 <a href="https://fluxbot.online">fluxbot.online</a>  
-📚 <a href="https://docs.fluxbot.online">Documentation</a>  
-💬 <a href="https://t.me/fluxbot_groups">Telegram Community</a>  
-🐦 <a href="https://x.com/Fluxbotonline">X / Twitter</a>  
-💻 <a href="https://github.com/fluxbotonline">GitHub</a>
+<p align="center">
+  <a href="https://fluxbot.online"><img src="https://img.shields.io/badge/Website-fluxbot.online-0d1117?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+  <a href="https://docs.fluxbot.online"><img src="https://img.shields.io/badge/Docs-Read%20Documentation-0d1117?style=for-the-badge&logo=gitbook&logoColor=white"/></a>
+  <a href="https://t.me/fluxbot_groups"><img src="https://img.shields.io/badge/Telegram-Community-0d1117?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="https://x.com/Fluxbotonline"><img src="https://img.shields.io/badge/X-@Fluxbotonline-0d1117?style=for-the-badge&logo=x&logoColor=white"/></a>
+</p>
 
 </div>
 
 ---
 
-## 🧠 What is FluxBot?
+## 🧠 About FluxBot
 
-**FluxBot** is an **automation & intelligence layer**  
-built for developers, traders, and digital operators.
+**FluxBot** is an **automation & intelligence framework**  
+designed for developers, traders, and system builders.
 
-We design systems that **observe, analyze, decide, and execute**  
-in **real-time** across Web, AI, and Blockchain environments.
+We build systems that **observe → analyze → decide → execute**  
+in **real time**, across **Web, AI, and Blockchain** environments.
 
-> _From signals → to decisions → to execution._
-
----
-
-## 🚀 Core Focus
-
-- 🤖 **Automation Bot Engine**  
-  Event-driven, real-time, scalable
-
-- 🧬 **AI-Assisted Decision Logic**  
-  Signal analysis, classification, and action
-
-- 🔗 **Blockchain & Web3 Automation**  
-  Monitoring, execution, orchestration
-
-- ⚙️ **Developer-First Infrastructure**  
-  Modular, extensible, production-ready
+> _Signals are useless without execution. FluxBot bridges the gap._
 
 ---
 
-## 🧩 Why FluxBot is Different
+## 🚀 Core Capabilities
 
-✅ Not just another bot  
-✅ Not a one-off script  
-✅ Not a black-box gimmick  
+- 🤖 **Automation Engine**  
+  Event-driven, low-latency, scalable by design
 
-**FluxBot is an Automation Framework.**
+- 🧬 **AI-Assisted Logic Layer**  
+  Pattern detection, classification, and decision routing
 
-We prioritize:
-- Reliability over hype  
-- Architecture over shortcuts  
-- Control over abstraction  
+- 🔗 **Web3 & Blockchain Automation**  
+  Monitoring, orchestration, execution pipelines
+
+- ⚙️ **Developer-First Architecture**  
+  Modular, composable, production-ready
 
 ---
 
-## 🛠️ Tech Stack (High-Level)
+## 🧩 Why FluxBot Is Different
+
+Most bots are:
+- One-purpose  
+- Script-based  
+- Fragile  
+
+**FluxBot is different.**
+
+It is:
+- A framework, not a gimmick  
+- Architecture-first  
+- Built for long-term automation systems  
+
+We value:
+- **Reliability over hype**  
+- **Control over black boxes**  
+- **Design over shortcuts**
+
+---
+
+## 🛠️ Technology Overview
 
 ```txt
-AI Logic        → Decision Layer
-Automation     → Event & Task Engine
-Backend        → Node.js / TypeScript
-Infrastructure → Scalable & Headless
-Web3           → Multi-chain Ready
+Decision Layer     → AI / Rule-Based Logic
+Automation Layer   → Task & Event Engine
+Backend            → Node.js / TypeScript
+Infrastructure     → Headless & Scalable
+Blockchain         → Multi-chain Ready
